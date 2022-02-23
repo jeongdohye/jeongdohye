@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=064635&height=250&section=header&text=dohye%&fontAlign=80&fontColor=ffffff)
 
 
-# Hello🐱
+# Hello ! 🐱
 
 ### Who Am I 
 - 💡 I’m a software developer.
@@ -11,6 +11,7 @@
 
 
 ### Me
+<a href="https://ehgp244@gmail.com/"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://ehgp244@gmail.com/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://blog.naver.com/ehgp244"><img src="https://img.shields.io/badge/Blog-184D66?style=flat-square&logo=Blogger&logoColor=white"/></a>
   

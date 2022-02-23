@@ -1,13 +1,13 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00824D&height=250&section=header&text=dohye%&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=064635&height=250&section=header&text=dohye%&fontAlign=80&fontColor=ffffff)
 
 
-# Hello 😉
+# Hello🐱
 
-### Who Am I
-- 💻 I’m a software developer.
+### Who Am I 
+- 💡 I’m a software developer.
 - 🎓 I majored in business administration.
-- ✔️ I’m working in South Korea
+- 👩‍💻 I’m working in South Korea
 
 
 ### Me

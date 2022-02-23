@@ -12,9 +12,7 @@
 
 ### Me
 <a href="https://ehgp244@gmail.com/"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<a href="https://ehgp244@gmail.com/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://blog.naver.com/ehgp244"><img src="https://img.shields.io/badge/Blog-184D66?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  
   
 ### Skill
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1a2432fe733ac4772ad5036bd3f66738d9a9c4471bba0617c8ea93c34d54102a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1a2432fe733ac4772ad5036bd3f66738d9a9c4471bba0617c8ea93c34d54102a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;

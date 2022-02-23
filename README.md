@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=dohye%&fontAlign=80)
 
 
-
 # Hello 😉
 
 ### Who Am I
@@ -12,8 +11,8 @@
 
 
 ### Me
-<a href="https://ehgp244@gmail.com/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/ehgp244@gmail.com-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<a href="https://blog.naver.com/ehgp244"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://ehgp244@gmail.com/3812595a0cce4084b531252922db1690"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://blog.naver.com/ehgp244"><img src="https://img.shields.io/badge/Blog-184D66?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
   
 ### Skill

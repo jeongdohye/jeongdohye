@@ -5,9 +5,9 @@
 # Hello 😉
 
 ### Who Am I
-- 🌱 I’m I am currently developing software.
+- 💻 I’m a software developer.
 - 🎓 I majored in business administration.
-- 🚅 My hometown is jeonju.
+- ✔️ I’m working in South Korea
 
 
 ### Me

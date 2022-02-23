@@ -12,7 +12,7 @@
 <a href="https://ehgp244@gmail.com/"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://blog.naver.com/ehgp244"><img src="https://img.shields.io/badge/Blog-184D66?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
-### - Skills
+###  Skills
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>

@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=064635&height=250&section=header&text=dohye%&fontAlign=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=062635&height=300&section=header&text=jeongdohye%&=70&fontColor=ffffff)
+
 # Hello ! 🐱
 
 ### - Who Am I 
